@@ -1,0 +1,62 @@
+/* stylesheet for throwback site */
+h1 {
+    color: pink;
+}
+
+/* made CSS file, added image of myself!!! */
+
+h2 {
+    color: plum
+}
+
+p {
+    clear: both;
+}
+
+img {
+    float: left;
+}
+
+/* nav structure */
+
+nav li a {
+    display: block;
+    padding: 10px 30px;
+    float: left;
+}
+
+nav li {
+    list-style-type: none;
+    display: block;
+    float: left;
+}
+
+nav {
+    clear: both;
+}
+
+/* structure and layout */
+
+#wrapper {
+    width: 960px;
+    margin: 0px auto;
+}
+
+#content-sidebar-wrapper{
+
+    clear: floats;
+}
+
+#content {
+    width: 75;
+    float: left;
+}
+
+#sidebar {
+    width: 25;
+    float: right;
+}
+
+footer {
+    clear: both;
+}
